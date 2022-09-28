@@ -1,0 +1,5 @@
+name =(input(' What is your name? \u001b[1m' ))
+age = int(input('\u001b[0m How old are you? \u001b[1m '))
+year = 2020-age
+
+print("\u001b[0m Hello "+name+"! You were born in "+str(year)+".")
